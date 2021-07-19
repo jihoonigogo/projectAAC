@@ -143,7 +143,7 @@ export default {
       movieRank: [],
       mainVideos:[
         // {id:1,src: '<iframe width="100%" height="1200vh" src="https://www.youtube.com/embed/V6aWnlhH6ug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'},
-        {id:1,src: '<iframe width="100%" height="862vh" src="https://www.youtube.com/embed/V6aWnlhH6ug?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'},
+        {id:1,src: '<iframe width="100%" height="861vh" src="https://www.youtube.com/embed/V6aWnlhH6ug?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'},
 
         // {id:2,src: '<vides width="560" height="315" type="video/mp4" src="../assets/blackwidow.mp4" allowfullscreen></video>'},
         // {id:3,src: '<video type="video/mp4" src="../assets/blackwidow.mp4" frameborder="0" allow="accelerometer; autoplay; muted; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></video>'},
